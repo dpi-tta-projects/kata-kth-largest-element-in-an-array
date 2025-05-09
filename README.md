@@ -28,4 +28,4 @@ Write a function that:
 
 ## Challenge
 
-What is the time complexity of your solution? Can you optimize for O(n) time complexity?
+What is the time complexity of your solution? Can you optimize for O(n log k) time complexity?
